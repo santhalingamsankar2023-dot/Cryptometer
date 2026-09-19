@@ -1,0 +1,6 @@
+{
+  "name": "RSA Cryptometer",
+  "description": "Interactive RSA cryptography workbench and cryptometer for key generation, encryption, decryption, and real-time security strength and entropy metering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
